@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Cperez
+ * @author CperezFo
  */
 public class Aleatorio {
 
